@@ -1,0 +1,49 @@
+
+ #imagenFondo{
+  background-image: url(img/comida.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat-y;
+  background-position-y: 100%;
+  height: 100vh;  
+}  
+
+
+#titulo{
+  margin-top: 80px;
+  color: aqua;
+}
+
+#subtitulo{
+  padding-top: 40px;
+  color: aqua;
+}
+
+#busqueda{
+  margin-top: 30px;
+  border-radius: 5px;
+}
+
+#boton{
+  margin-top: 30px;
+  border-radius: 5px;
+}
+
+#name{
+  color:aqua;
+}
+
+#url{
+  color: aqua;
+}
+
+#direccion{
+  color: aqua;
+}
+
+.restaurant {
+  padding-bottom: 10px;
+  background-color: beige;
+  margin: 10px;
+  padding-top: 10px;
+}
