@@ -6,10 +6,13 @@
 }
 
 #titulo{
-  margin-top: 50px;
-  color: rgb(243, 11, 11);
+  padding-top: 30px;
+  color: rgb(243, 11, 11); 
 }
 
-#splash{
+ #splash{
   background-color: rgba(245, 245, 220, 0.534);
-}
+  height: 15vh;
+  margin-top: 100px;
+  border-radius: 90px;
+} 

@@ -10,40 +10,43 @@
 
 
 #titulo{
-  margin-top: 80px;
-  color: aqua;
+  margin-top: 50px;
+  color: red;
 }
 
 #subtitulo{
-  padding-top: 40px;
-  color: aqua;
+  padding-top: 20px;
+  color: red;
 }
 
 #busqueda{
-  margin-top: 30px;
+  margin-top: 20px;
   border-radius: 5px;
+  text-align: center;
 }
 
 #boton{
   margin-top: 30px;
   border-radius: 5px;
+  width: 90px;
+  background-color: bisque;
+  color: red;
+  font-weight: bold;
 }
 
-#name{
-  color:aqua;
-}
-
-#url{
-  color: aqua;
-}
-
-#direccion{
-  color: aqua;
-}
 
 .restaurant {
+  font-weight: bold;
   padding-bottom: 10px;
-  background-color: beige;
-  margin: 10px;
+  background-color: rgba(255, 228, 196, 0.787);
+  margin: 90px;
   padding-top: 10px;
+  border-radius: 30px;
+  
+}
+
+.container{
+  background-color: rgba(255, 228, 196, 0.472);
+  border-radius: 30px;  
+  height: 50vh;  
 }

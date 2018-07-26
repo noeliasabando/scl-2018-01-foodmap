@@ -27,8 +27,8 @@ const renderInfo = datos => {
 
   datos.restaurants.forEach((restaurant) => {
     listaRestaurant.innerHTML += `<div class="restaurant">
-    <p>Nombre ${restaurant.restaurant.name}</p>
-    <p>Dirección ${restaurant.restaurant.location.address}</p>
+    <p>Nombre: ${restaurant.restaurant.name}</p>
+    <p>Dirección: ${restaurant.restaurant.location.address}</p>
     <a href="${restaurant.restaurant.events_url}">Visita la página</a>  
     
     </div>`    
