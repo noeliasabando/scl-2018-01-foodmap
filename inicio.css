@@ -10,13 +10,13 @@
 
 
 #titulo{
-  margin-top: 50px;
-  color: red;
+  padding-top: 20px;
+  color: white;
 }
 
 #subtitulo{
   padding-top: 20px;
-  color: red;
+  color: white;
 }
 
 #busqueda{
@@ -26,11 +26,12 @@
 }
 
 #boton{
+  margin-bottom: 20px;
   margin-top: 30px;
   border-radius: 5px;
   width: 90px;
-  background-color: bisque;
-  color: red;
+  background-color: rgb(204, 87, 87);
+  color: white;
   font-weight: bold;
 }
 
@@ -46,7 +47,7 @@
 }
 
 .container{
-  background-color: rgba(255, 228, 196, 0.5);
+  background-color:rgba(65, 64, 64, 0.637);
   border-radius: 30px;  
-  height: 50vh;  
+    
 }
