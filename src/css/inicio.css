@@ -1,6 +1,6 @@
 
  #imagenFondo{
-  background-image: url(img/comida.jpg);
+  background-image: url(../../img/comida.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: repeat-y;
